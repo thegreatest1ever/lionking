@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Welcome to Lion King Engineering Solutions Limited",
+    "paragraph": "Lion King Engineering Solutions Limited excels in innovative solutions, ensuring excellent service delivery with a commitment to quality and customer satisfaction."
+  },
+  "About": {
+    "paragraph": "Lion King Engineering Solutions Limited specializes in engineering solutions for solar installation and maintenance. We excel in electrical installations on telecommunication sites, including batteries and rectifiers. Our expertise extends to security features like electrical fences and surveillance solutions, including CCTV camera installations. We are dedicated to providing innovative and reliable services.",
+    "Why": [
+      "Innovative Solutions",
+      "Expert Team",
+      "Quality Service",
+      "Comprehensive Offerings"
+    ],
+    "Why2": [
+      "Customer Satisfaction",
+      "Safety First",
+      "Sustainable Practices",
+      "24/7 Support"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Solar Installation Project",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Rectifier & Battery Installations Project",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Surveillance System Installation Project",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Electrical Fence Installation Project",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Electrical Systems Installation Project",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-solar",
+      "name": "Solar Installation and Maintenance",
+      "text": "Providing expert installation and reliable maintenance of solar energy systems to ensure efficient and sustainable energy solutions."
+    },
+    {
+      "icon": "fa fa-plug",
+      "name": "Electrical Installations",
+      "text": "Offering comprehensive electrical services for telecommunication sites, including the installation and maintenance of batteries and rectifiers."
+    },
+    {
+      "icon": "fa fa-camera",
+      "name": "CCTV Camera Installations",
+      "text": "Delivering high-quality surveillance solutions with advanced CCTV systems for enhanced security and monitoring."
+    },
+    {
+      "icon": "fa fa-bolt-lightning",
+      "name": "Electrical Fencing",
+      "text": "Installing robust electrical fences to enhance the security of your property, deterring unauthorized access effectively."
+    },
+    {
+      "icon": "fa fa-battery-half",
+      "name": "Battery and Rectifier Services",
+      "text": "Specializing in the installation and maintenance of batteries and rectifiers to ensure uninterrupted power supply for telecommunication sites."
+    },
+    {
+      "icon": "fa fa-fingerprint",
+      "name": "Security System Integration",
+      "text": "Providing complete integration of various security features, including surveillance and fencing, for comprehensive protection and monitoring."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lion King provided seamless solar installation. Their professionalism and expertise are unmatched.\"",
+      "name": "Fred Muwonge"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Their electrical work on our telecom site was impeccable. Reliable and efficient service every time.\"",
+      "name": "Muwonge Fred"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Outstanding CCTV installation! The team was knowledgeable, and the system works perfectly.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Our property’s security has never been better with their electrical fencing. Truly top-notch service!\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Battery and rectifier services were exceptional. They ensured everything was installed and maintained perfectly.\"",
+      "name": "Johny Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The integrated security system they provided is excellent. Comprehensive and reliable solutions from a great team..\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Fred Muwonge",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Muwonge Fred",
+      "job": "Head of Engineering"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Edwin Mugabe",
+      "job": "IT Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Operations Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Gaba Road, P.O.BOX # Kampala Uganda ",
+    "phone": "+256 752 030 615",
+    "email": "lionkingengineeringsolutions@gmail.com",
+    "facebook": "lionkingengineeringsolutions.facebook.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-solar",
+      "title": "Solar Power Systems",
+      "text": "High-efficiency solar panels and inverters designed for residential and commercial use, providing sustainable and reliable energy solutions."
+    },
+    {
+      "icon": "fa fa-tower-cell",
+      "title": "Telecom Power Solutions",
+      "text": "Specialized batteries and rectifiers for telecommunication sites, ensuring uninterrupted power supply and optimal performance."
+    },
+    {
+      "icon": "fa fa-camera",
+      "title": "CCTV Surveillance Kits",
+      "text": "Advanced CCTV cameras and recording systems for comprehensive security monitoring, suitable for various environments."
+    },
+    {
+      "icon": "fa fa-bolt",
+      "title": "Electrical Fence Systems",
+      "text": "Durable and effective electrical fencing products for enhanced property security, available in customizable configurations."
+    }
+  ]
+}
